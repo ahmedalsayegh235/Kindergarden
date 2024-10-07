@@ -269,7 +269,7 @@ gap: 1.5rem;
     outline-offset: -1rem;
     overflow: hidden;
 }
-.education .box-container .box :hover
+.education .box-container .box:hover
 {
     transform: scale(1.1);
 }
