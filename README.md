@@ -14,4 +14,4 @@
 - contact section
 - and the footer
 
-## Done by:Ahmed Abdulwahab Alsayegh and Mahmood Abdulla
+## Done by Ahmed Abdulwahab Alsayegh & Mahmood Abdulla
